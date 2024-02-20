@@ -1,0 +1,35 @@
+<!-- Which vendor has the highest total sales amount? -->
+
+Calculate the total sales amount for each vendor by summing the TotalAmount column.
+Identify the vendor with the highest total sales amount.
+<!-- What is the average order quantity for each product? -->
+
+Calculate the average order quantity for each product by grouping the data by ProductID and computing the mean of the OrderQty column.
+<!-- What is the total sales amount for each year? -->
+
+Extract the year from the OrderDate column.
+Group the data by year and calculate the total sales amount for each year.
+<!-- Which product has the highest total sales amount? -->
+
+Calculate the total sales amount for each product by summing the TotalAmount column.
+Identify the product with the highest total sales amount.
+<!-- How many orders were shipped late? -->
+
+Compare the ShipDate with the OrderDate to determine if an order was shipped late.
+Count the number of orders that were shipped late.
+<!-- What is the average unit price for each vendor? -->
+
+Calculate the average unit price for each vendor by grouping the data by VendorID and computing the mean of the UnitPrice column.
+<!-- What is the total sales amount for each vendor? -->
+
+Calculate the total sales amount for each vendor by summing the TotalAmount column.
+<!-- What is the distribution of order quantities? -->
+
+Plot a histogram to visualize the distribution of order quantities.
+<!-- Which product category has the highest total sales amount? -->
+
+Join the Product table with the dataset to get the product category information.
+Calculate the total sales amount for each product category by summing the TotalAmount column.
+<!-- How many unique products were ordered? -->
+
+Count the number of unique products by calculating the distinct count of ProductID.
