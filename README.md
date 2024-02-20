@@ -1,9 +1,11 @@
 # Supply-Chain-Analysis
 
 Overview
+
 This project focuses on analyzing supply chain data from the AdventureWorks2019 database to gain insights into various aspects of the supply chain process. The analysis includes tasks such as supplier performance evaluation, inventory management analysis, demand forecasting, and procurement analysis.
 
 Dataset
+
 The dataset used for this analysis is sourced from the AdventureWorks2019 database, which provides comprehensive information on purchase orders, vendors, products, and sales transactions. The dataset contains the following key columns:
 
 PurchaseOrderID: Unique identifier for each purchase order.
@@ -21,6 +23,7 @@ TotalAmount: Total amount for the purchase order.
 
 
 Tasks
+
 The analysis encompasses the following tasks:
 
 Which vendor has the highest total sales amount?
@@ -36,6 +39,7 @@ How many unique products were ordered?
 
 
 Tools and Technologies
+
 SQL: Used for querying and extracting data from the AdventureWorks2019 database.
 Python: Utilized libraries such as pandas for data manipulation and analysis.
 Tableau: Used for data visualization and creating interactive dashboards to present the analysis results.
@@ -48,6 +52,7 @@ README.md: This README file providing an overview of the project and instruction
 
 
 How to Run the Analysis
+
 Ensure that you have access to the AdventureWorks2019 database.
 Execute the SQL queries in SupplyChainAnalysis.Create%Insert.sql to extract and prepare the data for analysis.
 Run the Python script analysis.py to perform data analysis tasks using pandas.
