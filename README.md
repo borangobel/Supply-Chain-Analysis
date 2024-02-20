@@ -8,18 +8,18 @@ Dataset
 
 The dataset used for this analysis is sourced from the AdventureWorks2019 database, which provides comprehensive information on purchase orders, vendors, products, and sales transactions. The dataset contains the following key columns:
 
-  PurchaseOrderID: Unique identifier for each purchase order.
-  OrderDate: Date when the purchase order was placed.
-  ShipDate: Date when the purchase order was shipped.
-  VendorID: Unique identifier for each vendor.
-  VendorName: Name of the vendor.
-  ProductID: Unique identifier for each product.
-  ProductName: Name of the product.
-  ProductCategory: Category of the product.
-  ProductSubcategory: Subcategory of the product.
-  OrderQty: Quantity of the product ordered.
-  UnitPrice: Unit price of the product.
-  TotalAmount: Total amount for the purchase order.
+- PurchaseOrderID: Unique identifier for each purchase order.
+- OrderDate: Date when the purchase order was placed.
+- ShipDate: Date when the purchase order was shipped.
+- VendorID: Unique identifier for each vendor.
+- VendorName: Name of the vendor.
+- ProductID: Unique identifier for each product.
+- ProductName: Name of the product.
+- ProductCategory: Category of the product.
+- ProductSubcategory: Subcategory of the product.
+- OrderQty: Quantity of the product ordered.
+- UnitPrice: Unit price of the product.
+- TotalAmount: Total amount for the purchase order.
 
 
 Tasks
